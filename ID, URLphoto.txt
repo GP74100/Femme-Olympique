@@ -1,0 +1,6 @@
+ID, URLphoto
+67046, https://www.gymnastics-history.com/wp-content/uploads/2022/11/1960-Latynina-770x1024.jpg
+35550, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Birgit_Fischer_%282010%29.jpg/220px-Birgit_Fischer_%282010%29.jpg
+121258, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dara_Torres_2crop.jpg/220px-Dara_Torres_2crop.jpg
+119922, https://badgerswimclub.com/wp-content/uploads/2014/06/jenny_thompson1.jpg
+23426, https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Natalie_Coughlin%2C_2018_%28cropped%29.jpg/220px-Natalie_Coughlin%2C_2018_%28cropped%29.jpg
