@@ -51,3 +51,6 @@ Paris 2024 sera la première édition avec une parité totale entre hommes et fe
 📑 Jupyter Notebook (.ipynb) détaillant l'analyse.
 📊 Graphiques et visualisations des tendances olympiques.
 📄 Présentation PowerPoint/PDF résumant les résultats.
+
+![Screenshot 2025-02-10 152646](https://github.com/user-attachments/assets/b71102ba-91ec-4fb3-94ae-cbad77441928)
+
